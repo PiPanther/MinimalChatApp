@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "906422631837",
+    "project_id": "notesapp-3782e",
+    "storage_bucket": "notesapp-3782e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906422631837:android:df1f2bb115606af139c374",
+        "android_client_info": {
+          "package_name": "com.example.minimal_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906422631837-li92m28hn7lcbms4u0sqcaa96psskc8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtKwFe_sUDkEvKfV9THfOqzca51M0sC3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906422631837-li92m28hn7lcbms4u0sqcaa96psskc8c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906422631837-fp3oasuem9n839b049l02oi1c4t8b8m9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quicknotes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906422631837:android:c5cb315c59a04e3739c374",
+        "android_client_info": {
+          "package_name": "com.example.quicknotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906422631837-li92m28hn7lcbms4u0sqcaa96psskc8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtKwFe_sUDkEvKfV9THfOqzca51M0sC3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906422631837-li92m28hn7lcbms4u0sqcaa96psskc8c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906422631837-fp3oasuem9n839b049l02oi1c4t8b8m9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quicknotes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
